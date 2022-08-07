@@ -481,3 +481,51 @@ Name: 341, dtype: object
 [DEBUG]:parso.python.diff:2022-08-05 11:36:36,704:-> code[replace] old[1:1] new[1:1]
 [DEBUG]:parso.python.diff:2022-08-05 11:36:36,704:parse_part from 1 to 1 (to 0 in part parser)
 [DEBUG]:parso.python.diff:2022-08-05 11:36:36,704:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:43:44,262:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:43:44,262:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:43:44,262:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:43:44,277:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:43:44,277:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:43:45,895:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:43:45,895:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:43:45,895:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:43:45,895:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:43:45,895:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:46:18,050:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:46:18,050:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:46:18,050:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:46:18,050:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:46:18,050:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:46:21,466:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:46:21,466:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:46:21,466:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:46:21,466:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:46:21,466:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:46:57,060:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:46:57,060:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:46:57,060:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:46:57,076:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:46:57,076:diff parser end
+[DEBUG]:parso.python.diff:2022-08-05 11:47:24,240:diff parser start
+[DEBUG]:parso.python.diff:2022-08-05 11:47:24,240:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-05 11:47:24,240:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-05 11:47:24,240:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-05 11:47:24,240:diff parser end
+[INFO]:root:2022-08-05 11:48:28,308:Person who is not regular 32
+[DEBUG]:root:2022-08-06 16:02:25,364:Loading fitbit data in to data frame
+[INFO]:root:2022-08-06 16:02:34,800:Connection to engine
+[INFO]:root:2022-08-06 16:06:49,795:Connection to engine
+[INFO]:root:2022-08-06 16:06:49,838:Engine created successuflly
+[DEBUG]:parso.python.diff:2022-08-06 16:07:25,691:diff parser start
+[DEBUG]:parso.python.diff:2022-08-06 16:07:25,691:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-06 16:07:25,691:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-06 16:07:25,691:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-06 16:07:25,691:diff parser end
+[DEBUG]:parso.cache:2022-08-06 16:07:25,808:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\frame.py
+[DEBUG]:parso.cache:2022-08-06 16:07:25,890:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\__init__.py
+[DEBUG]:parso.cache:2022-08-06 16:07:25,902:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\__init__.py
+[DEBUG]:parso.cache:2022-08-06 16:07:26,022:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\generic.py
+[DEBUG]:parso.cache:2022-08-06 16:07:26,131:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\base.py
+[DEBUG]:parso.cache:2022-08-06 16:07:26,162:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\accessor.py
+[DEBUG]:parso.cache:2022-08-06 16:07:26,303:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\indexing.py
+[DEBUG]:parso.cache:2022-08-06 16:07:26,381:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\arraylike.py
