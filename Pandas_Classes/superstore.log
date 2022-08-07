@@ -391,3 +391,195 @@
 [DEBUG]:parso.python.diff:2022-08-07 00:17:21,025:-> code[replace] old[1:1] new[1:1]
 [DEBUG]:parso.python.diff:2022-08-07 00:17:21,025:parse_part from 1 to 1 (to 0 in part parser)
 [DEBUG]:parso.python.diff:2022-08-07 00:17:21,025:diff parser end
+[INFO]:root:2022-08-07 10:35:23,269:loading data into database
+[DEBUG]:root:2022-08-07 10:35:36,094:checking orders data from sql by mysql module
+[INFO]:root:2022-08-07 10:35:36,273:connection has created using mysql module
+[DEBUG]:root:2022-08-07 10:35:47,278:sending returns data to mysql
+[DEBUG]:root:2022-08-07 10:38:45,677:Joining the orderes and rerurns by inner join
+[DEBUG]:root:2022-08-07 10:38:49,497:finding the unique customers
+[INFO]:root:2022-08-07 10:38:50,345:Number of Unique customers2703
+[DEBUG]:root:2022-08-07 10:39:58,083:below expression for % of shipment
+[DEBUG]:root:2022-08-07 10:40:16,712:order id we have shipment duration more than 10 days
+[DEBUG]:root:2022-08-07 10:40:18,900:merging all df to get shipment > 15 days
+[DEBUG]:parso.cache:2022-08-07 10:41:59,445:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\groupby\generic.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,657:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+[DEBUG]:parso.cache:2022-08-07 10:41:59,672:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\__init__.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,672:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\__init__.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,672:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\groupby\__init__.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,735:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\groupby\groupby.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,860:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\frame.py
+[DEBUG]:parso.cache:2022-08-07 10:41:59,907:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\_typing.py
+[DEBUG]:parso.cache:2022-08-07 10:42:00,025:pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+[DEBUG]:parso.cache:2022-08-07 10:42:00,057:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+[DEBUG]:parso.cache:2022-08-07 10:42:00,088:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\base.py
+[DEBUG]:parso.cache:2022-08-07 10:42:00,104:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\accessor.py
+[DEBUG]:parso.python.diff:2022-08-07 10:43:31,766:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 10:43:31,766:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 10:43:31,766:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 10:43:31,782:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 10:43:31,782:diff parser end
+[INFO]:root:2022-08-07 10:48:09,039:Cntral has highest profit compared to other regions
+[DEBUG]:parso.python.diff:2022-08-07 11:04:39,127:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:04:39,127:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:04:39,127:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:04:39,127:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:04:39,127:diff parser end
+[DEBUG]:parso.cache:2022-08-07 11:04:39,258:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\generic.py
+[DEBUG]:parso.cache:2022-08-07 11:04:39,393:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\indexing.py
+[DEBUG]:parso.cache:2022-08-07 11:04:39,424:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\arraylike.py
+[DEBUG]:parso.python.diff:2022-08-07 11:07:08,987:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:07:08,987:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:07:08,987:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:07:08,987:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:07:08,987:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:17:36,845:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:17:36,845:line_lengths old: 1; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:17:36,845:-> code[replace] old[1:1] new[1:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:17:36,845:parse_part from 1 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:17:36,845:diff parser end
+[DEBUG]:parso.cache:2022-08-07 11:17:36,941:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+[DEBUG]:parso.cache:2022-08-07 11:17:36,972:pickle loaded: C:\Users\HP\anaconda3\lib\types.py
+[DEBUG]:parso.cache:2022-08-07 11:17:36,988:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\types.pyi
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,519:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,519:line_lengths old: 2; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,519:-> code[equal] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,519:copy old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,519:-> code[replace] old[2:2] new[2:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,534:parse_part from 2 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:18:12,534:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:line_lengths old: 2; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:-> code[equal] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:copy old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:-> code[replace] old[2:2] new[2:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:parse_part from 2 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:18:15,165:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:line_lengths old: 2; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:-> code[equal] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:copy old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:-> code[replace] old[2:2] new[2:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:parse_part from 2 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:18:21,611:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:line_lengths old: 2; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:-> code[equal] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:copy old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:-> code[replace] old[2:2] new[2:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:parse_part from 2 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:18:33,548:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:line_lengths old: 2; new: 2
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:-> code[equal] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:copy old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:-> code[replace] old[2:2] new[2:2]
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:parse_part from 2 to 2 (to 1 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:18:56,513:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:29:31,640:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:29:31,640:line_lengths old: 2; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:29:31,640:-> code[replace] old[1:2] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:29:31,640:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:29:31,640:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:29:37,882:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:29:37,882:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:29:37,882:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:29:37,882:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:29:37,882:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:31:13,732:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:31:13,732:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:31:13,732:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:31:13,732:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:31:13,732:diff parser end
+[DEBUG]:parso.cache:2022-08-07 11:31:13,902:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\series.py
+[DEBUG]:parso.python.diff:2022-08-07 11:32:53,231:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:32:53,231:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:32:53,231:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:32:53,231:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:32:53,231:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:39:47,561:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:39:47,561:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:39:47,561:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:39:47,577:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:39:47,577:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:39:49,833:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:39:49,833:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:39:49,833:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:39:49,848:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:39:49,848:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:40:24,047:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:40:24,047:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:40:24,047:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:40:24,047:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:40:24,047:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:40:28,290:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:40:28,290:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:40:28,290:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:40:28,290:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:40:28,290:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:41:18,958:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:41:18,958:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:41:18,958:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:41:18,958:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:41:18,958:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:41:50,286:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:41:50,286:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:41:50,286:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:41:50,286:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:41:50,286:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:47:50,465:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:47:50,465:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:47:50,465:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:47:50,465:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:47:50,465:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:47:52,066:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:47:52,066:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:47:52,066:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:47:52,066:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:47:52,066:diff parser end
+[DEBUG]:parso.cache:2022-08-07 11:47:52,118:pickle loaded: C:\Users\HP\anaconda3\lib\logging\__init__.py
+[INFO]:root:2022-08-07 11:48:36,217:Corporate  has more profitable than any one
+[DEBUG]:parso.python.diff:2022-08-07 11:57:18,011:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:57:18,027:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:57:18,027:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:57:18,027:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:57:18,027:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:57:19,760:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:57:19,760:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:57:19,760:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:57:19,760:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:57:19,760:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:57:23,642:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:57:23,642:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:57:23,642:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:57:23,642:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:57:23,642:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 11:57:26,379:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 11:57:26,379:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 11:57:26,379:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 11:57:26,379:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 11:57:26,379:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 12:07:39,463:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 12:07:39,463:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 12:07:39,463:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 12:07:39,463:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 12:07:39,463:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 12:07:43,267:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 12:07:43,283:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 12:07:43,283:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 12:07:43,283:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 12:07:43,283:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 12:08:14,439:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 12:08:14,440:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 12:08:14,441:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 12:08:14,442:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 12:08:14,442:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 12:09:38,260:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 12:09:38,260:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 12:09:38,260:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 12:09:38,260:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 12:09:38,260:diff parser end
+[DEBUG]:parso.python.diff:2022-08-07 12:11:06,695:diff parser start
+[DEBUG]:parso.python.diff:2022-08-07 12:11:06,695:line_lengths old: 1; new: 1
+[DEBUG]:parso.python.diff:2022-08-07 12:11:06,695:-> code[replace] old[1:1] new[1:1]
+[DEBUG]:parso.python.diff:2022-08-07 12:11:06,695:parse_part from 1 to 1 (to 0 in part parser)
+[DEBUG]:parso.python.diff:2022-08-07 12:11:06,695:diff parser end
